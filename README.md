@@ -1,12 +1,8 @@
 # Homework-11: Note Taker
 
-## Link to deployed application
+## Link to deployed [application](https://notetakerlucas.herokuapp.com/)
 
-[Application:](https://notetakerlucas.herokuapp.com/)
-
-## Link to deployed GitHub
-
-[GitHub:](https://polodre.github.io/NoteTaker/)
+## Link to deployed [GitHub](https://polodre.github.io/NoteTaker/)
 
 ## Technologies Used
 
