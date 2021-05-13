@@ -2,11 +2,11 @@
 
 ## Link to deployed application
 
-https://notetakerlucas.herokuapp.com/
+[Application:](https://notetakerlucas.herokuapp.com/)
 
 ## Link to deployed GitHub
 
-https://github.com/polodre/NoteTaker
+[GitHub:](https://polodre.github.io/NoteTaker/)
 
 ## Technologies Used
 
